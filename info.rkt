@@ -27,6 +27,7 @@
 
 (define framework:color-schemes
   `(#hash((name . "Ayu Mirage")
+          (white-on-black-base? . #t)
           (colors
            .
            ((framework:basic-canvas-background
